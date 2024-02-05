@@ -1,2 +1,2 @@
-a= int(input("Enter you age:"))
-print (a)
+a= int(input("Enter you age:"));
+print (a);
