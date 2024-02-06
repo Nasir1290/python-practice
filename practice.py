@@ -1,2 +1,5 @@
-a= int(input("Enter you age:"));
-print (a);
+# text:str = "helloWorld";
+# print(text.center(30,""))
+
+# text = "hello world";
+# print(text.count('o'));
