@@ -3,3 +3,5 @@
 
 # text = "hello world";
 # print(text.count('o'));
+
+text = "hello world";
