@@ -18,3 +18,8 @@
 # print(type(a))
 
 
+# reserved keywords...
+# python has some reserved keywords like "and", "or", "not","if", "else","elif","def","del","raise","return","True","false". and we can't use them as our variables name.
+# like we can't do this 👉 True = True because True is a reserved word in python.
+
+
