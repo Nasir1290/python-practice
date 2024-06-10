@@ -1,3 +1,5 @@
-# Variables and data types in python
-print("hello world")
+a = 1
+b=a
+b=2
+print("a",a,"b",b)
 
