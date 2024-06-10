@@ -12,3 +12,9 @@
 # print(a)
 # print(b)
 
+
+# to know any values type we have to use type() function..
+# a = "name"
+# print(type(a))
+
+
