@@ -23,3 +23,7 @@
 # like we can't do this 👉 True = True because True is a reserved word in python.
 
 
+# import math
+# print(math.floor(5.2))
+
+print(-5 % 2)
