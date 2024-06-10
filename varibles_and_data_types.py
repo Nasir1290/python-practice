@@ -1,5 +1,4 @@
-a = 1
-b=a
-b=2
-print("a",a,"b",b)
+a = "nasir"
+b="b"
+print(a)
 
