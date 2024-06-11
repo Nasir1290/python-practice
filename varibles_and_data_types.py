@@ -26,4 +26,5 @@
 # import math
 # print(math.floor(5.2))
 
-print(-5 % 2)
+# age =float(input("Enter yur age: "))
+# print("age is :", age)
