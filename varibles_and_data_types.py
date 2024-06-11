@@ -27,4 +27,4 @@
 # print(math.floor(5.2))
 
 # age =float(input("Enter yur age: "))
-# print("age is :", age)
+print("age is :", age)
