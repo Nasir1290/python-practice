@@ -32,5 +32,5 @@
 
 # if else statements in python
 
-age:int = int(input("Enter yur age:"))
+age:int = int(input("Enter your age:"))
 print("your age is :", age)
