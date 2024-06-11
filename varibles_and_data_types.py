@@ -28,3 +28,9 @@
 
 # age =float(input("Enter yur age: "))
 # print("age is :", age)
+
+
+# if else statements in python
+
+age:int = int(input("Enter yur age:"))
+print("your age is :", age)
