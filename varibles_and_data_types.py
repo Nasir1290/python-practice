@@ -52,6 +52,9 @@
 #     print("Enter correct")
 # else:
 #     print("Enter correct")
-age =18
-valid=("no", "yes") [age>=18]
-print(valid)
+# age =18
+# valid=("no", "yes") [age>=18]
+# print(valid)
+
+# multiline comment
+print()
