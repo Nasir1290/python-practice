@@ -32,5 +32,26 @@
 
 # if else statements in python
 
-age:int = int(input("Enter your age:"))
-print("your age is :", age)
+
+# def correct_age():
+
+#     try:
+#         age: int = int(input("Enter your age:"))
+#         print("Your age is :", age)
+#     except:
+#         print("Enter correct age")
+
+
+# try:
+#     correct_age()
+# except:
+#     print("Enter correct age")
+#     correct_age()
+
+# if True:
+#     print("Enter correct")
+# else:
+#     print("Enter correct")
+age =18
+valid=("no", "yes") [age>=18]
+print(valid)
