@@ -21,3 +21,4 @@
 # print(str_len)
 
 
+# indexing in python
