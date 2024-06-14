@@ -1,6 +1,6 @@
 # Strings and conditional statements in python 👇👇
 
-# string writing types.... 
+# string writing types....
 
 # a='this ia a single qoute string'
 # b="this a double qoute string"
@@ -22,6 +22,9 @@
 
 
 # indexing in python
+
+
+# print index of any iterable with python enumerate function
 str = "this is a string"
-for index in str:
-    print(i)
+for index,s in enumerate(str):
+    print(index)
