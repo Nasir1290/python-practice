@@ -22,9 +22,11 @@
 
 
 # indexing in python
+str = "this is a string"
+print(str[2])
 
 
 # print index of any iterable with python enumerate function
-str = "this is a string"
-for index,s in enumerate(str):
-    print(index)
+# str = "this is a string"
+# for index,s in enumerate(str):
+#     print(index)
