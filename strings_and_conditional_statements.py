@@ -11,5 +11,13 @@
 # next_line="this is a string with next line escape characters.\nthis a next line string"
 # print(next_line)
 
-tab="this is a string with tab escape characters.\tthis a tab string"
-print(tab)
+# tab="this is a string with tab escape characters.\tthis a tab string"
+# print(tab)
+
+
+# length of string in python...
+# str="this is a string"
+# str_len=len(str)
+# print(str_len)
+
+# 
