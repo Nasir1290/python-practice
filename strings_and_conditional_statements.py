@@ -22,11 +22,21 @@
 
 
 # indexing in python
-str = "this is a string"
-print(str[2])
+# str = "this is a string"
+# print(str[2])
 
 
 # print index of any iterable with python enumerate function
 # str = "this is a string"
 # for index,s in enumerate(str):
 #     print(index)
+
+
+
+
+# Slicing in python 👇👇
+# Slicing in python means is acces a part of a string
+str = "this is a string"
+print(len(str))
+sliced =str[1:]
+print(sliced)
