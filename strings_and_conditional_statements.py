@@ -22,3 +22,6 @@
 
 
 # indexing in python
+str = "this is a string"
+for index in str:
+    print(i)
