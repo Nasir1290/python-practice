@@ -43,4 +43,4 @@ sliced = str[1:4]
 print(sliced)
 
 # inclusive
-# inclu
+# incl
