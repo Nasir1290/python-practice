@@ -27,16 +27,17 @@
 
 
 # print index of any iterable with python enumerate function
+# in python indexing start from 0.
 # str = "this is a string"
 # for index,s in enumerate(str):
 #     print(index)
 
 
-
-
 # Slicing in python 👇👇
 # Slicing in python means is acces a part of a string
+# in case of slicing the indexing start from 1.
+
 str = "this is a string"
-print(len(str))
-sliced =str[1:]
+# in the argument the first one is starting index and last one is end index.
+sliced = str[1:15]
 print(sliced)
