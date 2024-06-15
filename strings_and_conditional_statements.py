@@ -39,5 +39,6 @@
 
 str = "this is a string"
 # in the argument the first one is starting index and last one is end index.
-sliced = str[1:15]
+sliced = str[1:4]
 print(sliced)
+# 
