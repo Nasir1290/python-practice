@@ -75,3 +75,10 @@
 # tup = (1, 2, 3)
 # print(tup)
 # print(type(tup))
+
+
+# create a empty tuple
+
+tup = ()
+print(tup)
+print(type(tup))
