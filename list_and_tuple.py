@@ -97,3 +97,5 @@
 
 
 # in tuple indexing and slicing are working same as string and list
+tup=(1,2,3,4,5,6)
+print(tup[0])
