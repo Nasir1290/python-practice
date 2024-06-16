@@ -71,7 +71,7 @@
 # tuple is a immutable data type that can't change or modify or reassign. tuple assign with first bracket
 
 
-# tuple ...
-tup = (1, 2, 3)
-print(tup)
-print(type(tup))
+# # tuple ...
+# tup = (1, 2, 3)
+# print(tup)
+# print(type(tup))
