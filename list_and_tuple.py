@@ -101,4 +101,7 @@
 # print(tup[0])
 # print(tup[0:3])
 
-# 
+# movies = []
+# user_fav_movie=input("Enter your favourite movie:")
+# movies.append(user_fav_movie)
+# print(movies)
