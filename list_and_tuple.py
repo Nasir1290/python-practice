@@ -81,3 +81,9 @@
 # tup = ()
 # print(tup)
 # print(type(tup))
+
+
+# create tuple with one charecter
+tup = (1,)
+print(tup)
+print(type(tup))
