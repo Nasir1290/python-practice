@@ -64,3 +64,8 @@
 # # and another one is 👇
 # lst.reverse()
 # print(lst)
+
+
+
+# Let's practice Tuple in python 👇👇👇👇
+# tuple is a immutable data type that can't change or modify or reassign
