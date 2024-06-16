@@ -2,20 +2,20 @@
 
 # List 👇👇👇👇
 # list is a mutable data type in python
-#let's try 11 method of list in python 👇👇👇
+# let's try 11 method of list in python 👇👇👇
 
-# # 1) len function 
+# # 1) len function
 # name = "Nasir"
 # print(len(name))
 
 
-# # 2)max function 
+# # 2)max function
 
 # lst=[1,2,3,4,5,6,7,8,9,10]
 # print(max(lst))
 
 
-# # 3)min function 
+# # 3)min function
 # lst=[1,2,3,4,5,6,7,8]
 # print(min(lst))
 
@@ -66,7 +66,6 @@
 # print(lst)
 
 
-
 # Let's practice Tuple in python 👇👇👇👇
 # tuple is a immutable data type that can't change or modify or reassign. tuple assign with first bracket
 
@@ -84,6 +83,14 @@
 
 
 # create tuple with one charecter
+# here when we have to create a tuple with one charecter then we have to add a comma after the first charecter. otherwise if we not give comma after the first charecter then python will take it a integer value wrapped in a first brackets.
+# without comma
+tup = (1)
+print(tup)
+print(type(tup))
+
+
+# with comma
 tup = (1,)
 print(tup)
 print(type(tup))
