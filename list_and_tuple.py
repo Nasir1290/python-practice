@@ -68,4 +68,4 @@
 
 
 # Let's practice Tuple in python 👇👇👇👇
-# tuple is a immutable data type that can't change or modify or reassign
+# tuple is a immutable data type that can't change or modify or reassign. tuple assign with first bracket
