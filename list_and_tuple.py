@@ -77,8 +77,7 @@
 # print(type(tup))
 
 
-# create a empty tuple
-
-tup = ()
-print(tup)
-print(type(tup))
+# # create a empty tuple
+# tup = ()
+# print(tup)
+# print(type(tup))
