@@ -82,12 +82,12 @@
 # print(type(tup))
 
 
-# create tuple with one charecter
-# here when we have to create a tuple with one charecter then we have to add a comma after the first charecter. otherwise if we not give comma after the first charecter then python will take it a integer value wrapped in a first brackets.
-# without comma
-tup = (1)
-print(tup)
-print(type(tup))
+# # create tuple with one charecter
+# # here when we have to create a tuple with one charecter then we have to add a comma after the first charecter. otherwise if we not give comma after the first charecter then python will take it a integer value wrapped in a first brackets.
+# # without comma
+# tup = (1)
+# print(tup)
+# print(type(tup))
 
 
 # # with comma
