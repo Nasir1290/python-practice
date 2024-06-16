@@ -96,4 +96,4 @@
 # print(type(tup))
 
 
-# 
+# in tuple indexing and slicing are working same as string and list
