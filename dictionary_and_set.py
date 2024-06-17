@@ -26,4 +26,3 @@
 dic={"name": "Nasir", "roll":568427}
 dic2=dic.copy()
 print(dic2.__reversed__)
-1
