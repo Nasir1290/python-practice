@@ -74,3 +74,21 @@
 # # get() method which will return a given value if the key not in dictionary. otherwise it will return none deafultly
 # info = {"name": "Nasir", "age": 21, "hobby": "football"}
 # print(info.get("neme","name not Found"))
+
+
+
+## keys() method return all keys of dictionary and we can use them like below
+
+# info = {"name": "Nasir", "age":21, "hobby":"football"}
+# keys =info.keys()
+# print("name" in keys)
+# # real usecases like if i need some catetory information and i have to check if there any field missing then i can use dic.keys() to find all fields and compare them with my given field
+
+# given_field=["name","age","roll","hobby","technology"]
+# missing_field=[field for field in given_field if field not in info]
+# if missing_field:
+#     print(f"Missing fields are {missing_field}")
+
+
+
+# values() method return all value of the dictionary and we can use them like below 
