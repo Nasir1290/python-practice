@@ -38,15 +38,21 @@
 # hello from "Nasir"
 
 
-# dictionary comprehension
-squares = {x: x**2 for x in range(1, 8)}
-print(squares)
+# # dictionary comprehension
+# squares = {x: x**2 for x in range(1, 8)}
+# print(squares)
 
 
 # removing item from dictionary
 
-# pop() function => remove particular given key value from dictionary.
-info = {"name": "Nasir", "age":21, "hobby":"football"}
-info.pop("hobby")
-print (info)
+# # pop() function => remove particular given key value from dictionary.
+# info = {"name": "Nasir", "age":21, "hobby":"football"}
+# info.pop("hobby")
+# print (info)
 
+
+
+# popitem() function => remove the last key-value pair from dictionary
+info = {"name": "Nasir", "age":21, "hobby":"football"}
+info.popitem()
+print (info)
