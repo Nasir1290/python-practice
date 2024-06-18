@@ -91,12 +91,12 @@
 
 
 
-# values() method return all value of the dictionary and we can use them like below 
-info = {"name": "Nasir", "age":21, "hobby":"football"}
-values=info.values()
-print(values)
+# # values() method return all value of the dictionary and we can use them like below 
+# info = {"name": "Nasir", "age":21, "hobby":"football"}
+# values=info.values()
+# print(values)
 
-# real use case --> imagine you have a monthly expenses dictionary and you want to sum you expenses, so you can do this like below 
-expenses = {"room":1500,"transport":500,"food":3000,"other":1000}
-total_expenses=sum(expenses.values())
-print(f"Your Total montly expenses are : {total_expenses} tk")
+# # real use case --> imagine you have a monthly expenses dictionary and you want to sum you expenses, so you can do this like below 
+# expenses = {"room":1500,"transport":500,"food":3000,"other":1000}
+# total_expenses=sum(expenses.values())
+# print(f"Your Total montly expenses are : {total_expenses} tk")
