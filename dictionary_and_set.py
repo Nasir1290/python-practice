@@ -36,3 +36,8 @@
 # # tid is not exist still it will return default value.not error
 # print(dic.get("id", "unknown"))
 # hello from "Nasir"
+
+
+# dictionary comprehension 
+squares = [x**x for x in range(6)]
+print(squares)
