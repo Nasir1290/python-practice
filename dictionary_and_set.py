@@ -51,7 +51,6 @@
 # print (info)
 
 
-
 # # popitem() function => remove the last key-value pair from dictionary
 # info = {"name": "Nasir", "age":21, "hobby":"football"}
 # info.popitem()
@@ -70,7 +69,8 @@
 # print(info)
 
 
-# some common uses dictionary funciton
+# some common uses dictionary funciton 👇👇👇
 
-info = {"name": "Nasir", "age":21, "hobby":"football"}
-print(info.get("name"))
+# # get() method which will return a given value if the key not in dictionary. otherwise it will return none deafultly
+# info = {"name": "Nasir", "age": 21, "hobby": "football"}
+# print(info.get("neme","name not Found"))
