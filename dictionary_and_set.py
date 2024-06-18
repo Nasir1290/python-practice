@@ -46,7 +46,7 @@ print(squares)
 # removing item from dictionary
 
 # pop() function => remove particular given key value from dictionary.
-info = {"name": "Nasir", "age":21, "Hobby":"football"}
+info = {"name": "Nasir", "age":21, "hobby":"football"}
 info.pop("hobby")
 print (info)
 
