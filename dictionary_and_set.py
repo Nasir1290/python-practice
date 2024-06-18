@@ -58,7 +58,13 @@
 # print (info)
 
 
-# del()function => used to delete given key like this --> del(dic[key])
+# # del()function => used to delete given key like this --> del(dic[key])
+# info = {"name": "Nasir", "age":21, "hobby":"football"}
+# del(info["name"])
+# print(info)
+
+
+# clear() function remove all element from the dictionary
 info = {"name": "Nasir", "age":21, "hobby":"football"}
-del(info["name"])
+info.clear()
 print(info)
