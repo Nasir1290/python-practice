@@ -52,7 +52,7 @@
 
 
 
-# popitem() function => remove the last key-value pair from dictionary
-info = {"name": "Nasir", "age":21, "hobby":"football"}
-info.popitem()
-print (info)
+# # popitem() function => remove the last key-value pair from dictionary
+# info = {"name": "Nasir", "age":21, "hobby":"football"}
+# info.popitem()
+# print (info)
