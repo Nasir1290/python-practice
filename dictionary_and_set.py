@@ -100,3 +100,9 @@
 # expenses = {"room":1500,"transport":500,"food":3000,"other":1000}
 # total_expenses=sum(expenses.values())
 # print(f"Your Total montly expenses are : {total_expenses} tk")
+
+
+# items() method to get all in a list of tuple where each tuple will contain every key value pairs in a comma separated way. like below
+info = {"name": "Nasir", "age":21, "hobby":"football"}
+for key,value in info.items():
+    print(key,":",value)
