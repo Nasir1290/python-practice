@@ -102,7 +102,7 @@
 # print(f"Your Total montly expenses are : {total_expenses} tk")
 
 
-# items() method to get all in a list of tuple where each tuple will contain every key value pairs in a comma separated way. like below
-info = {"name": "Nasir", "age":21, "hobby":"football"}
-for key,value in info.items():
-    print(key,":",value)
+# # items() method to get all in a list of tuple where each tuple will contain every key value pairs in a comma separated way. like below
+# info = {"name": "Nasir", "age":21, "hobby":"football"}
+# for key,value in info.items():
+#     print(key,":",value)
