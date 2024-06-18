@@ -22,7 +22,17 @@
 # print(dic)
 
 
-# copy() function => work like other datatype in dictionary like list 
-dic={"name": "Nasir", "roll":568427}
-dic2=dic.copy()
-print(dic2.__reversed__)
+# # copy() function => work like other datatype in dictionary like list
+# dic={"name": "Nasir", "roll":568427}
+# dic2= dic.copy()
+# dic2["roll"]=568426
+# print(dic,":",dic2)
+# print(dic2==dic)
+
+
+# # get() function => is a function which is usefull to get value from dictionary when a value don't exist in the dictionary and if i tried to get this value then with dic["name"] this will give error but if i will use it with get function and pass the value and pass a default value if the value doesn't exist then it will not crash the app . it will return default value like below
+# dic = {"name": "Nasir", "roll": 568427}
+# print(dic["id"])  # it will crash the code though the id is not exist on dic
+# # tid is not exist still it will return default value.not error
+# print(dic.get("id", "unknown"))
+# hello from "Nasir"
