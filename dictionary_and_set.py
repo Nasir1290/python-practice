@@ -64,7 +64,13 @@
 # print(info)
 
 
-# clear() function remove all element from the dictionary
+# # clear() function remove all element from the dictionary
+# info = {"name": "Nasir", "age":21, "hobby":"football"}
+# info.clear()
+# print(info)
+
+
+# some common uses dictionary funciton
+
 info = {"name": "Nasir", "age":21, "hobby":"football"}
-info.clear()
-print(info)
+print(info.get("name"))
