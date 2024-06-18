@@ -106,3 +106,11 @@
 # info = {"name": "Nasir", "age":21, "hobby":"football"}
 # for key,value in info.items():
 #     print(key,":",value)
+
+
+# update() method update the current dictionary with given updated value like below
+
+info = {"name": "Nasir", "age":21, "hobby":"football"}
+updated_info={"name":"Nahid","age":22}
+info.update(updated_info)
+print(info)
