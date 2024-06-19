@@ -34,15 +34,39 @@
 
 
 
-# while loops are run depending on a condition
+# # while loops are run depending on a condition
+# count = 1
+# while count <= 10:
+#     print(count*"*")
+#     count+=1
+    
+    
+    
+# # while loop with break statement
+# count = 1
+# while True:
+#     print(count)
+#     count+=1
 
-count = 1
-while count <= 10:
-    print(count*"*")
-    count+=1
-    
-    
-count = 1
-while count <= 10:
-    print(count*"*")
-    count+=1
+
+
+# # using else with while loop
+# count = 1
+# while count <= 10:
+#     print(count)
+#     count+=1
+# else:
+#     print("run yoiur code after while loop")
+
+
+
+# # nested loop
+# # in nested loop the under loop will finished first by keeping the i'th loop on the hand
+# for i in range (3):
+#     for j in range (4,7):
+#         print(f"i is :{i}, j is :{j}")
+
+
+# with open("example.txt", "r") as file:
+#     for line in file:
+        print(line.strip())
