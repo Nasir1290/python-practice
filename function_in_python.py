@@ -7,4 +7,4 @@
 # my_func()
 
 
-# functi
+# funct
