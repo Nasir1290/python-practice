@@ -33,5 +33,12 @@
 # def handle_parameter(**kwargs):
 #     for key,value in kwargs.items():
 #         print(key,value)
-
 # handle_parameter(name="nasir",age=20)
+
+
+
+# lambda function in python
+# it's a one line function which is work like that
+add_ten = lambda x:x+10
+print(add_ten(50))
+
